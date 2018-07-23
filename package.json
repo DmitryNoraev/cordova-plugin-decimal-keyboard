@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-decimal-keyboard",
+  "version": "1.0.0",
+  "description": "patch for Cordova Keyboard Plugin (Apache Software Foundation)",
+  "cordova": {
+    "id": "cordova-plugin-decimal-keyboard",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DmitryNoraev/cordova-plugin-decimal-keyboard.git"
+  },
+  "publishConfig": {
+    "registry": "http://coral:18088/repository/npm-ibrs/"
+  },
+  "author": "",
+  "license": "Apache 2.0"
+}
